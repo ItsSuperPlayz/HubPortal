@@ -1,11 +1,13 @@
 # Hub Portal
-A collection of scripts that you can execute immediately without copying and pasting those long lines of codes.
-Note: All scripts presented on Hub Portal is public and free-to-use. Do not reupload as if you own them.
+A collection of scripts that you can execute immediately without copying and pasting those long lines of codes.  
+Note: All scripts presented on Hub Portal are released to official websites (github, etc.) or kept private. Do not reupload as if you own them.  
+# Dev Status
+Hub Portal currently has **4** hubs, **1** script and **3** miscellaneous scripts.
 # Loadstring
 The current loadstring is:
 ```
 not available
 ```
 # Credits
-Made by ItsSuperPlayz
+Made by ItsSuperPlayz.  
 Discord: ItsSuperPlayz#6076
