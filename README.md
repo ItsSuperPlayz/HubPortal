@@ -10,5 +10,5 @@ not available
 ```
 # Credits
 Made by ItsSuperPlayz.  
-Discord: ItsSuperPlayz#6076
+Discord: ItsSuperPlayz#6076  
 **Do not reupload Hub Portal without credit or modify Hub Portal and make it your own.**
