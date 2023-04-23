@@ -6,7 +6,7 @@ Hub Portal currently has **4** hubs, **1** script and **3** miscellaneous script
 # Loadstring
 The current loadstring is:
 ```
-not available
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsSuperPlayz/HubPortal/main/hubportal.lua"))()
 ```
 # Credits
 Made by ItsSuperPlayz.  
