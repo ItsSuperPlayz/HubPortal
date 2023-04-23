@@ -11,4 +11,5 @@ not available
 # Credits
 Made by ItsSuperPlayz.  
 Discord: ItsSuperPlayz#6076  
+Used Kavo UI Library as baseplate: *xheptcofficial.gitbook.io/kavo-library/*  
 **Do not reupload Hub Portal without credit or modify Hub Portal and make it your own.**
